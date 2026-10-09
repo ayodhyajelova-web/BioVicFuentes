@@ -16,9 +16,9 @@
 #untuk memangil id */
 .home img{
   margin-top:100px;
-  width:250px:
-  height:250px:
-  border-radius:50%/*untuk membuat bulat*/
+  width:250px;
+  height:250px;
+  border-radius:50%;/*untuk membuat bulat*/
   box-shadow: 9px 9px 35px -8px rgba(0,0,0,0.69);
   
 }
