@@ -4,6 +4,23 @@
     border:0;
 
   }
+nav {
+    width: 250px;
+    height: 100%;
+    maargin-left: 10px;
+    position: fixed;
+    overflow: hidden;
+    background:#c4c0c0;
+    box-shadow: 9px 9px 35px -8px rgba(0,0,0,0.69);
+    text-align: center;
+}
+nav img{
+    border-radius: 50%;
+    margin-top:30px;
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+}
 .main{
   margin-left:400px;
 }
