@@ -44,7 +44,7 @@ nav a:after {
     content: "";
     position:absolute;
     right: 100%;
-    bottom:0.114em;
+    bottom:0.14em;
     left:0:
 }
 nav a:hover:after {
