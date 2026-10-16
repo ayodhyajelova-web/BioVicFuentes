@@ -28,6 +28,28 @@ nav img{
     margin-bottom: 20px;
     text-align: center;
 }
+nav ul{
+    font-family: "Titillium Web",sans-setif;
+    line-height: 50px;
+    font-size: 20px;
+    width: 100%;
+    backgrounf-color: rgb(0,0,0);
+}
+ol{
+    color:#ffffff;
+}
+nav a:after {
+    border-radius: 1em;
+    border-top:0.1em solid #ffffff;
+    content: "";
+    position:absolute;
+    right: 100%;
+    bottom:0.114em;
+    left:0:
+}
+nav a:hover:after {
+    right: 0;
+}
 .main{
   margin-left:400px;
 }
