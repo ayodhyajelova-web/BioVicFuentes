@@ -46,7 +46,11 @@ nav a:after {
     right: 100%;
     bottom: 0.14em;
     left: 0;
+}
+a{
+    color: #f7f7f7;
     text-decoration: none;
+    position: relative;
 }
 nav a:hover:after {
     right: 0;
