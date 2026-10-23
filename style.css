@@ -7,7 +7,7 @@
 nav {
     width: 250px;
     height: 100%;
-    maargin-left: 10px;
+    margin-left: 10px;
     position: fixed;
     overflow: hidden;
     background:#c4c0c0;
@@ -29,7 +29,7 @@ nav img{
     text-align: center;
 }
 nav ul{
-    font-family: "Titillium Web",sans-setif;
+    font-family: "Titillium Web",sans-serif;
     line-height: 50px;
     font-size: 20px;
     width: 100%;
@@ -46,6 +46,7 @@ nav a:after {
     right: 100%;
     bottom: 0.14em;
     left: 0;
+    text-decoration: none;
 }
 nav a:hover:after {
     right: 0;
