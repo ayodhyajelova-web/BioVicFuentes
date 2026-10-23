@@ -36,11 +36,11 @@ nav ul{
     background-color: rgb(0,0,0);
 }
 ol{
-    color: #000;
+    color: #fffff;
 }
 nav a:after {
     border-radius: 1em;
-    border-top: 0.1em solid #000;
+    border-top: 0.1em solid #ffffff;
     content: "";
     position: absolute;
     right: 100%;
