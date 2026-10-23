@@ -40,7 +40,7 @@ ol{
 }
 nav a:after {
     border-radius: 1em;
-    border-top: 0.1em solid #ffffff;
+    border-top: 0.1em solid #000;
     content: "";
     position: absolute;
     right: 100%;
