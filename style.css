@@ -135,14 +135,17 @@ nav a:hover:after {
 
 .achievement-details-div img {
     margin-top: 10px;
+    margin-right: 10px;
     width: 50px;
     height: 50px;
     float: left;
+    object-fit: cover;
 }
 
 .achievement-details-div h3 {
     font-family: "Titillium Web", sans-serif;
     font-size: 26px;
+    margin-bottom: 5px;
 }
 
 .achievement-details-div p {
