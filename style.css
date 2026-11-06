@@ -127,8 +127,10 @@ nav a:hover:after {
 
 .achievement-details-div {
     width: 90%;
-    height: 120px;
+    height: auto;
+    min-height: 120px;
     margin-bottom: 20px;
+    display: flow-root;
 }
 
 .achievement-details-div img {
